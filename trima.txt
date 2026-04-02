@@ -1,1 +1,5 @@
-ll
+Cloud.result.frigma = 0
+config main 9 init
+cloud config init
+init cloud 8
+kernal init cloud 0
